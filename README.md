@@ -10,6 +10,10 @@ https://github.com/processing/p5.js-website/issues/999
 
 Beyond those two, I've assumed we're also be interested in how the developer experience can be better outside of the web editor, even if the produced sketch and its deployment remain the same? (e.g. type-checking and support for navigating larger sketches help more people work more successfully with large codebases, find bugs more easily, etc).
 
+### Mindmap
+
+This is just markdown and is probably better read as such, [in the raw view, here](https://gist.githubusercontent.com/nbogie/53b6ea985ec7c8068b03d9f9347999df/raw/3e3219a309df81a6c9b68c7e6ac3343d2a81a453/p5-beyond-web-editor-ideas-neill.md).
+
 ```mermaid
 %%{init: {'theme': 'default'}}%%
 mindmap
@@ -86,7 +90,7 @@ mindmap
 
 ## Notes:
 
--   Please view this markdown file as raw source if you want to avoid the mindmap diagram, which I suspect is completely unreadable.
+-   [Please view this markdown file as raw source](https://gist.githubusercontent.com/nbogie/53b6ea985ec7c8068b03d9f9347999df/raw/3e3219a309df81a6c9b68c7e6ac3343d2a81a453/p5-beyond-web-editor-ideas-neill.md) if you want to avoid the mindmap diagram, which I suspect is completely unreadable.
 
 -   I appreciate many of these are likely out of scope / don't strictly fit the category, and I know tutorials exist on various /all of them, already, somewhere.  I intentionally didn't try to filter too hard for now - a "green hat" exercise.
 
@@ -105,4 +109,4 @@ mindmap
 -   [mermaid mindmap diagram documentation](https://mermaid.js.org/syntax/mindmap.html)
 -   the syntax doesn't like items that include parentheses.
 -   default theme doesn't seem to play well with chrome dark mode.
--   Yes, the mindmap diagram isn't effective at all with this many verbose bullets. view source to read the list as a normal nested bullet list in markdown.
+-   Yes, the mindmap diagram isn't effective at all with this many verbose bullets.

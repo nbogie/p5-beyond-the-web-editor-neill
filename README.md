@@ -8,7 +8,7 @@ https://github.com/processing/p5.js-website/issues/999
 
 | "...cover ways of deploying p5 in different places and the nuances of each one..." - dave
 
-Beyond those two, I've assumed we're also be interested in how the developer experience can be better outside of the web editor, even were the produced sketch and its deployment remain the same? (e.g. type-checking and support for navigating larger sketches help more people work more successfully with large codebases, find bugs more easily, etc).
+Beyond those two, I've assumed we're also be interested in how the developer experience can be better outside of the web editor, even if the produced sketch and its deployment remain the same? (e.g. type-checking and support for navigating larger sketches help more people work more successfully with large codebases, find bugs more easily, etc).
 
 ```mermaid
 %%{init: {'theme': 'default'}}%%

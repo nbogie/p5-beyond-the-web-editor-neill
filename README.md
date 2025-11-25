@@ -30,7 +30,7 @@ mindmap
       packaging for app stores?
     Outputs
         Multiple sketches on a page
-        Kiosk mode
+        Kiosk mode for installations
         full-screen 🐻
         responsive design
     project setups

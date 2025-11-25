@@ -86,7 +86,7 @@ mindmap
 
 ## Notes:
 
--   Please view this markdown file as raw source if you want to avoid the mindmap diagram.
+-   Please view this markdown file as raw source if you want to avoid the mindmap diagram, which I suspect is completely unreadable.
 
 -   I appreciate many of these are likely out of scope / don't strictly fit the category, and I know tutorials exist on various /all of them, already, somewhere.  I intentionally didn't try to filter too hard for now - a "green hat" exercise.
 

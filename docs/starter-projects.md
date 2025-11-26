@@ -21,7 +21,7 @@ Some of the old ones are only listed here as a convenient reference for me, in c
     -   no node.js or command-line required
     -   not ideal: includes the (big) types files in the repo and requires they be updated manually on p5 version update.
     -   `npx degit nbogie/p5-v2-js-typechecked-global-mode-starter my-awesome-p5-project`
-    -   could be improved by having up-to-date p5 types in definitely-typed for the remote type-aquisition mechanism.
+    -   could be improved by having up-to-date p5 types in definitely-typed for the remote type-aquisition mechanism.  See [publish to @types](https://www.typescriptlang.org/docs/handbook/declaration-files/publishing.html#publish-to-types) in the typescript docs.
 
 -   ⭐️ NEW 2️⃣: p5 v2 🌍 global-mode *JavaScript* starter with type-checking - **node-required** (2025): https://github.com/nbogie/p5-v2-js-typechecked-global-mode-with-node-starter
     -   intended for vscode

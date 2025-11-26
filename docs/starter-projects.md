@@ -1,10 +1,14 @@
 ## (my) starter / template projects
 
-First of all, if you're here from a random search, there are almost certainly much better starter projects out there.
+First of all, if you're here from a random search, there are almost certainly better starter projects out there.
 
 This is mostly a list of my old starter projects, which I'm gathering here just for my reference while i work on updated ones, in case I left some useful wisdom in there for my students or for my future self ;)
 
 ### JavaScript: with type-checking
+
+-   ⭐️ NEW 1️⃣: p5 v1 🌍 global-mode starter with type-checking (2025): https://github.com/nbogie/p5-v1-js-typechecked-global-mode-starter
+
+    -   type-checking, intellisense, explanation of files
 
 -   OLD 1️⃣: p5 v1 🌍 global-mode starter w type-checking (2023): https://github.com/WeAreAcademy/p5js-js-global-mode-starter
     -   type-checking and intellisense

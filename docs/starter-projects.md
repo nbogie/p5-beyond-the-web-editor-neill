@@ -3,19 +3,19 @@
 This is mostly a list of my old starter projects, which I'm gathering here just for my reference while i work on updated ones, in case I left some useful advice in there...
 
 ### JavaScript: with type-checking
-* OLD 1️⃣: p5 v1 global-mode starter w type-checking (2023): https://github.com/WeAreAcademy/p5js-js-global-mode-starter
+* OLD 1️⃣: p5 v1 🌍 global-mode starter w type-checking (2023): https://github.com/WeAreAcademy/p5js-js-global-mode-starter
   * type-checking and intellisense
   * no node, no bundler, suggests live server but whatever.
  
 ### JavaScript: sketch-as-ESM
-* ⭐️ NEW 1️⃣: sketch-as-ESM example at openprocessing: https://openprocessing.org/sketch/2784559
+* ⭐️ NEW 1️⃣: sketch-as-ESM p5 v1 🌍 global-mode ESM example at openprocessing: https://openprocessing.org/sketch/2784559
 
 ### TypeScript
-* OLD 1️⃣: ts global-mode starter for p5 v1: https://github.com/WeAreAcademy/academy-p5js-ts-global-mode-starter
+* OLD 1️⃣: ts 🌍 global-mode starter for p5 v1: https://github.com/WeAreAcademy/academy-p5js-ts-global-mode-starter
     * uses browser-sync, modified from https://github.com/Gaweph/p5-typescript-starter  
 * OLD 1️⃣: ts instance-mode starter 2023: https://github.com/nbogie/p5-ts-starter-23
     * uses parcel 2 bundler
-* ⭐️ NEW 2️⃣: p5 v2 ts global-mode, vite-based, 2025:  https://github.com/nbogie/p5-v2-ts-global-mode-template-WIP
+* ⭐️ NEW 2️⃣: p5 v2 ts 🌍 global-mode, vite-based, 2025:  https://github.com/nbogie/p5-v2-ts-global-mode-template-WIP
     * vite
     * intended for degit but optional
 

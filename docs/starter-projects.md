@@ -24,7 +24,7 @@ This is mostly a list of my old starter projects, which I'm gathering here just 
     -   uses browser-sync, modified from https://github.com/Gaweph/p5-typescript-starter
 -   OLD 1️⃣: ts instance-mode starter 2023: https://github.com/nbogie/p5-ts-starter-23
     -   uses parcel 2 bundler
--   ⭐️ NEW 2️⃣: p5 v2 ts 🌍 global-mode, vite-based, 2025: https://github.com/nbogie/p5-v2-ts-global-mode-template-WIP
+-   ⭐️ NEW 2️⃣: p5 v2 ts 🌍 global-mode, vite-based, 2025: https://github.com/nbogie/p5-v2-ts-global-mode-starter
 
     -   vite
     -   intended for degit but optional

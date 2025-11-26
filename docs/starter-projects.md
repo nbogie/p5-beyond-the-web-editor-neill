@@ -16,7 +16,7 @@ This is mostly a list of my old starter projects, which I'm gathering here just 
 
 ### JavaScript: sketch-as-ESM
 
--   ⭐️ NEW 1️⃣: sketch-as-ESM p5 v1 🌍 global-mode ESM example at openprocessing: https://openprocessing.org/sketch/2784559
+-   ⭐️ NEW 1️⃣: sketch-as-ESM p5 v1 🌍 global-mode ESM commented example at openprocessing: https://openprocessing.org/sketch/2784559
 
 ### TypeScript
 

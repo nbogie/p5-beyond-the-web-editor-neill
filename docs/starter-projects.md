@@ -2,7 +2,8 @@
 
 First of all, if you're here from a random search, there are almost certainly better starter projects out there.
 
-This is a mix of my old and new starter projects, some of which are under construction.  
+This is a list mostly for myself, of my old and new starter projects, some of which are under construction.  
+
 Some of the old ones are only listed here as a convenient reference for me, in case I left some useful wisdom in there for my students or for my future self ;)
 
 ## JavaScript Projects
@@ -63,7 +64,7 @@ Some of the old ones are only listed here as a convenient reference for me, in c
 -   OLD: threejs starter / examples
     -   https://github.com/nbogie/threejs-ts-starter
         -   parcel 1 based
-
+        
 ## credits
 
 I think in each individual project I've credited any sources used. However big shout out to this [p5 ts starter](https://github.com/Gaweph/p5-typescript-starter) by Gareth Williams (Gaweph) which I think the typescript setups for all my p5 v1.x starters have been based on.

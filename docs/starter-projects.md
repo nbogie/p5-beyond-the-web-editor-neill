@@ -51,16 +51,18 @@ Some of the old ones are only listed here as a convenient reference for me, in c
     -   intended for degit but optional
     -   https://github.com/nbogie/p5-v2-ts-global-mode-starter
 
+
+## Related
+
 -   OLD: TS + React w the kitchen sink (though no P5): https://github.com/WeAreAcademy/academy-react-ts-starter-vite
+    -   (no p5.js in this one)
     -   uses vite
     -   prettier
     -   eslint
     -   vitest unit testing
     -   vscode tasks, github workflows
     -   etc
-
-## Related
-
+    -   
 -   OLD: threejs starter / examples
     -   https://github.com/nbogie/threejs-ts-starter
         -   parcel 1 based

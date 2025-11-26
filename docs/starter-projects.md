@@ -9,6 +9,7 @@ This is mostly a list of my old starter projects, which I'm gathering here just 
 -   ⭐️ NEW 1️⃣: p5 v1 🌍 global-mode starter with type-checking (2025): https://github.com/nbogie/p5-v1-js-typechecked-global-mode-starter
 
     -   type-checking, intellisense, explanation of files
+    -   `npx degit nbogie/p5-v1-js-typechecked-global-mode-starter my-awesome-p5-project`
 
 -   OLD 1️⃣: p5 v1 🌍 global-mode starter w type-checking (2023): https://github.com/WeAreAcademy/p5js-js-global-mode-starter
     -   type-checking and intellisense
@@ -25,9 +26,9 @@ This is mostly a list of my old starter projects, which I'm gathering here just 
 -   OLD 1️⃣: ts instance-mode starter 2023: https://github.com/nbogie/p5-ts-starter-23
     -   uses parcel 2 bundler
 -   ⭐️ NEW 2️⃣: p5 v2 ts 🌍 global-mode, vite-based, 2025: https://github.com/nbogie/p5-v2-ts-global-mode-starter
-
     -   vite
     -   intended for degit but optional
+    -   https://github.com/nbogie/p5-v2-ts-global-mode-starter
 
 -   OLD: TS + React w the kitchen sink (though no P5): https://github.com/WeAreAcademy/academy-react-ts-starter-vite
     -   uses vite

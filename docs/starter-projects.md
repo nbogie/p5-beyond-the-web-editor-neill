@@ -1,6 +1,10 @@
-## starter / template projects
+## (my) starter / template projects
 
-This is mostly a list of my old starter projects, which I'm gathering here just for my reference while i work on updated ones, in case I left some useful advice in there...
+First of all, if you're here from a random search, there are almost certainly much better starter projects out there.
+
+This is mostly a list of my old starter projects, which I'm gathering here just for my reference while i work on updated ones, in case I left some useful wisdom in there for my students or for my future self  ;) 
+
+
 
 ### JavaScript: with type-checking
 * OLD 1️⃣: p5 v1 🌍 global-mode starter w type-checking (2023): https://github.com/WeAreAcademy/p5js-js-global-mode-starter

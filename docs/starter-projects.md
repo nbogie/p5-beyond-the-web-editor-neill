@@ -27,6 +27,14 @@ This is mostly a list of my old starter projects, which I'm gathering here just 
     * vscode tasks, github workflows
     * etc
 
+
+## Related
+
+* OLD: threejs starter / examples
+    * https://github.com/nbogie/threejs-ts-starter
+      * parcel 1 based
+
+
 ## credits
 
 I think in each individual project I've credited any sources used.  However big shout out to this [p5 ts starter](https://github.com/Gaweph/p5-typescript-starter)  by Gareth Williams (Gaweph) which I think the typescript setups for all my p5 v1.x starters have been based on.

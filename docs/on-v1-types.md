@@ -2,6 +2,8 @@
 
 Here's the 60+ file tree you get when you start to load the global.d.ts and then index.d.ts from definitely typed.
 
+This is what `npm i @types/p5` will install, and presumably what auto type-acquisition is bringing in (which is just using npm under the covers, I think).
+
 ```mermaid
 flowchart LR
     Z("global.d.ts")

@@ -7,3 +7,6 @@
 This is currently just a list of my old templates.  I will start to add new ones there.
 
 [starter projects](./docs/starter-projects.md)
+
+## on types for p5 v1.x projects
+

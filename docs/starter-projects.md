@@ -1,4 +1,4 @@
-# (my) starter / template projects for p5.js
+# Neill's starter projects for type-checked p5.js
 
 This is a list mostly for myself, of my old and new p5 starter projects, some of which are under construction.
 
@@ -76,4 +76,4 @@ Almost all of these incorporate *type-checking* and *intelli-sense* for your cod
         
 ## credits
 
-I think in each individual project I've credited any sources used. However big shout out to this [p5 ts starter](https://github.com/Gaweph/p5-typescript-starter) by Gareth Williams (Gaweph) which I think the typescript setups for all my p5 v1.x starters have been based on.
+I think in each individual project I've credited any sources used. However big shout out to this [p5 ts starter](https://github.com/Gaweph/p5-typescript-starter) by Gareth Williams (Gaweph) upon which the type-checking setups for all my p5 *v1.x* starters have been based.

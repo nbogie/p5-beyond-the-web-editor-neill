@@ -45,6 +45,7 @@ Some of the old ones are only listed here as a convenient reference for me, in c
 ### JavaScript: sketch-as-ESM
 
 -   ⭐️ NEW 1️⃣: sketch-as-ESM p5 v1 🌍 global-mode ESM commented example at openprocessing: https://openprocessing.org/sketch/2784559
+-   ⭐️ NEW 1️⃣: sketch-as-ESM p5 v1 🌍 global-mode ESM commented starter project https://github.com/nbogie/p5-v2-esm-js-typechecked-global-mode-starter
 
 ## TypeScript Projects
 

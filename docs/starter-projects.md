@@ -35,8 +35,17 @@ Almost all of these incorporate *type-checking* and *intelli-sense* for your cod
     -   intended for vscode
     -   type-checking, intelli-sense
     -   not ideal: requires node.js for downloading p5 - for the types, only
-    -   would be rendered unnecessary by having up-to-date p5 types in definitely-typed for the remote type-aquisition mechanism with its sibling starter.
     -   `npx degit nbogie/p5-v2-js-typechecked-global-mode-with-node-starter my-awesome-p5-project`
+
+-   ⭐️ NEW 2️⃣: p5 v2 🌍 global-mode *JavaScript* starter with **ALL-FILE** JavaScript type-checking - **node-required** (2025): https://github.com/nbogie/p5-v2-js-all-files-typechecked-global-mode-with-node-starter
+    -   intended for vscode
+    -   type-checking, intelli-sense
+    -   has a vscode build-task to run type-checking on every js file in the project
+        -  (ctrl-shift-b / cmd-shift-b)
+        -  populates the "problems" window
+        -  can also be run from the command-line `npm run type-check`
+    -   not ideal: requires node.js for downloading typescript and p5 - for the types, only
+    -   `npx degit nbogie/p5-v2-js-all-files-typechecked-global-mode-with-node-starter my-awesome-p5-project`
 
 -   OLD 1️⃣: p5 v1 🌍 global-mode *JavaScript* starter w type-checking (2023): https://github.com/WeAreAcademy/p5js-js-global-mode-starter
     -   type-checking and intelli-sense

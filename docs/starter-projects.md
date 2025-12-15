@@ -23,7 +23,7 @@ Almost all of these incorporate *type-checking* and *intelli-sense* for your cod
     -   `npx degit nbogie/p5-v1-js-typechecked-global-mode-local-types-starter my-awesome-p5-project`
     -   requires node.js be installed and simple use of `npm install` on the command-line to install the p5 types.
 
--   ⭐️ NEW 1️⃣: p5 v1 🌍 global-mode *JavaScript* starter with ALL-FILES type-checking (alternative using npm) (2025): https://github.com/nbogie/p5-v1-js-all-files-typechecked-global-mode-local-types-starter
+-   ⭐️ NEW 1️⃣: p5 v1 🌍 global-mode *JavaScript* starter with ALL-FILES type-checking (alternative using npm) (2025): https://github.com/nbogie/p5-v1-js-all-files-typechecked-global-mode-with-node-starter
     -   intended for vscode
     -   type-checking, intelli-sense, explanation of files
     -   has a vscode build-task to run type-checking on every js file in the project

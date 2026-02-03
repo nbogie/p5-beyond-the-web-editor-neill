@@ -17,3 +17,6 @@ Here I'll point to a few p5.js project done with type-checking
 
 -   [Space Scroller](https://github.com/nbogie/p5js-space-scroller) an old (2019) self-playing game I ported to TypeScript. p5.js v1 global-mode with TypeScript (uses bundle-sync, and tsc builds to a single file)
     -   It is "playable" [here on gh pages](https://nbogie.github.io/p5js-space-scroller/), in as much as any of my "games" are playable.
+
+- ["Tom's Tanks"](https://openprocessing.org/sketch/1981561), originally started as a collab with a a student, this is a 2d-scrolling tank game. It is "playable" [here on openprocessing](https://openprocessing.org/sketch/1981561), in its original p5 global mode javascript version.  I also wrote a typescript instance-mode version (vite-based), which is [available here](https://github.com/nbogie/tanks-p5-ts-vite).
+- 

@@ -73,7 +73,9 @@ Almost all of these incorporate *type-checking* and *intelli-sense* for your cod
 -   ⭐️ NEW 2️⃣: p5 v2 ts 🌍 global-mode, vite-based, 2025: https://github.com/nbogie/p5-v2-ts-global-mode-starter
     -   vite
     -   intended for degit but optional: `npx degit nbogie/p5-v2-ts-global-mode-starter`
-    -   this is the correct setup for **p5 instance mode**, too, it just requires removal of the global import in your sketch: `import "p5/global";` and keeping `import p5 from 'p5';`.
+-   ⭐️ NEW 2️⃣: p5 v2 ts instance-mode, vite-based, 2026: https://github.com/nbogie/p5-v2-ts-instance-mode-starter
+    -   vite
+    -   intended for degit but optional: `npx degit nbogie/p5-v2-ts-instance-mode-starter`
 -   OLD 1️⃣: ts 🌍 global-mode starter for p5 v1: https://github.com/WeAreAcademy/academy-p5js-ts-global-mode-starter
     -   uses browser-sync, modified from https://github.com/Gaweph/p5-typescript-starter
 -   OLD 1️⃣: ts instance-mode starter 2023: https://github.com/nbogie/p5-ts-starter-23
